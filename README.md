@@ -6,6 +6,7 @@
 Korean (fluent-native) // English (intermediate)
 
 Skills: JAVA / C++ / JS
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
 
 - 📫 How to reach me: smee6@naver.com (Eng/Kor) 
 - 1일 1커밋
