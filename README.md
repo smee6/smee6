@@ -3,7 +3,7 @@
 
 개발을 좋아하는 개발자가 되기 위하여 노력하고 있습니다.
 
-LANGUAGE: Korean (fluent-native) // English (intermediate)
+LANGUAGE: 
 <img src="https://img.shields.io/badge/한국어-1976D2?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/English-CC0000?style=flat-square&logoColor=white"/>
 
