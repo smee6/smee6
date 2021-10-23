@@ -10,5 +10,3 @@ Skills: JAVA / C++ / JS
 - 📫 How to reach me: smee6@naver.com (Eng/Kor) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=smee6)  
