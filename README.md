@@ -1,5 +1,6 @@
-### Hi there 👋, Seo myungin (SEO)
+### Hello World 👋,I am Seo myungin (SEO)
 #### into : Web Fullstack , Smart Factory , MES , Game
+
 Dev
 개발을 좋아하는 개발자가 되기 위하여 노력하고 있습니다.
 
@@ -11,7 +12,7 @@ Skills: JAVA / C++ / JS
 - 📫 How to reach me: smee6@naver.com (Eng/Kor) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smee6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/seomyungin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://codegosu.tistory.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' backgroud='white'>](https://github.com/smee6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/seomyungin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://codegosu.tistory.com/)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
