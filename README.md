@@ -13,6 +13,6 @@ Skills: JAVA / C++ / JS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true&theme=radical)
 
-
+<a href="instagram.com/seomyungin" target="_blank"><img src="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=#E4405F&logoColor=000000"/></a>
 
 
