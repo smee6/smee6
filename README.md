@@ -1,4 +1,4 @@
-### Hello ,I am Seo myungin (SEO)
+### Hello, I am Seo myungin (SEO)
 #### into : Web Fullstack , Smart Factory , MES , Game Dev
 
 developer develops the world
