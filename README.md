@@ -15,6 +15,7 @@ DEV_LANGUAGE:
 - 📫 How to reach me: smee6@naver.com (Eng/Kor) 
 - 1일 1커밋
 
+Link:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true&theme=radical)
 
