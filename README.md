@@ -22,5 +22,5 @@ DEV_LANGUAGE:
 Link:
 <a href="http://instagram.com/seomyungin" target="_blank"><img src="https://img.shields.io/badge/seomyungin-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCvJqYX8P_HIfKsmMsJ0M1WA" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-<a href="https://codegosu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_BLOG-149123?style=flat-square&logoColor=white"/></a>
+<a href="https://smee6.github.io" target="_blank"><img src="https://img.shields.io/badge/gitBlog-149123?style=flat-square&logoColor=white"/></a>
 
