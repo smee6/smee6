@@ -1,5 +1,5 @@
 ### Hello, I am Seo myungin (SEO)
-#### into : Web Fullstack , Smart Factory , MES , Game Dev
+#### into : FrontEnd
 
 developer develops the world
 
