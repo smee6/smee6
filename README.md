@@ -13,7 +13,6 @@ DEV_LANGUAGE:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
 - 📫 Contact: smee6@naver.com (Eng/Kor) 
-- 1일 1커밋을 하고 싶다
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
