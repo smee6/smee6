@@ -8,8 +8,8 @@ LANGUAGE:
 <img src="https://img.shields.io/badge/English-CC0000?style=flat-square&logoColor=white"/>
 
 DEV_LANGUAGE: 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
 - 📫 Contact: smee6@naver.com (Eng/Kor) 
