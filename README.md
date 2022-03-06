@@ -1,3 +1,6 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hello, I am Seo myungin (SEO)
 #### into : FrontEnd
 
@@ -15,7 +18,6 @@ DEV_LANGUAGE:
 - 📫 Contact: smee6@naver.com (Eng/Kor) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Link:
 <a href="http://instagram.com/seomyungin" target="_blank"><img src="https://img.shields.io/badge/seomyungin-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
