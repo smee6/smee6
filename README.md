@@ -1,6 +1,4 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hello, I am Seo myungin (SEO)
 #### into : FrontEnd
 
@@ -24,3 +22,4 @@ Link:
 <a href="https://www.youtube.com/channel/UCvJqYX8P_HIfKsmMsJ0M1WA" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 <a href="https://smee6.github.io" target="_blank"><img src="https://img.shields.io/badge/gitBlog-149123?style=flat-square&logoColor=white"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
