@@ -3,9 +3,7 @@
 
 LANGUAGE: 
 <img src="https://img.shields.io/badge/한국어-1976D2?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/English-CC0000?style=flat-square&logoColor=white"/>
-
-DEV_LANGUAGE: 
+<img src="https://img.shields.io/badge/English-CC0000?style=flat-square&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
