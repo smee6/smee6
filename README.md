@@ -1,5 +1,5 @@
 
-### Hello, I am Seo Myungin (SEO : FrontEnd developer)
+### Hello, I am SEO : FrontEnd developer
 
 LANGUAGE: 
 <img src="https://img.shields.io/badge/한국어-1976D2?style=flat-square&logoColor=white"/>
