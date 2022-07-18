@@ -7,9 +7,9 @@ LANGUAGE:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/nodeJS-brightgreen?style=flat-square&logo=nodeJS&logoColor=white"/>
 
-- 📫 Contact: smee6@naver.com (Eng/Kor) 
+Contact: smee6@naver.com (Eng/Kor) 
 
-블로그 : https://codegosu.tistory.com/
+Blog : https://codegosu.tistory.com/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
