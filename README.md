@@ -4,7 +4,7 @@
 Contact: smee6@naver.com (Eng/Kor) 
 
 Blog : https://codegosu.tistory.com/<br>
-이력서,자기소개 : https://seo93.notion.site/697852d68b4c4075ab49e20333d4df60
+노션 이력서 : https://seo93.notion.site/697852d68b4c4075ab49e20333d4df60
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
