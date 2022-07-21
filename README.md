@@ -3,7 +3,7 @@
 
 Contact: smee6@naver.com (Eng/Kor) 
 
-Blog : https://codegosu.tistory.com/
+Blog : https://codegosu.tistory.com/<br>
 Resume : https://seo93.notion.site/697852d68b4c4075ab49e20333d4df60
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
