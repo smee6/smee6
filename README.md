@@ -1,6 +1,6 @@
 <p align="center">
-### Hello, I am Seo the developer
-
+Hello, I am Seo the developer
+<p align="center">
 Contact: smee6@naver.com (Eng/Kor)
 Blog : https://codegosu.tistory.com/<br>
 노션 이력서 : https://seo93.notion.site/697852d68b4c4075ab49e20333d4df60
