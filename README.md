@@ -10,7 +10,7 @@ smee6@naver.com (Eng/Kor)<br>
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=smee6&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
-  
+![SEO's github stats](https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true)
 </div>
 <br>
 <p align="center">
