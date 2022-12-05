@@ -14,7 +14,7 @@ smee6@naver.com (Eng/한국어)<br><br>
 <a href="https://codegosu.tistory.com/">티스토리 블로그</a><br>
 <a href="https://seo93.notion.site/697852d68b4c4075ab49e20333d4df60"> Notion Resume (한국어)</a>
 </p>
-
+<br>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=smee6&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
   
