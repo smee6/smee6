@@ -4,6 +4,9 @@
   
 <p align="center">
 Hello, I am Seo Myungin (SEO)<br>
+  
+<a href="http://instagram.com/seomyungin" target="_blank"><img src="https://img.shields.io/badge/seomyungin-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  
 개발을 좋아하는 개발자
 </p>
 <p align="center">
@@ -15,9 +18,6 @@ smee6@naver.com (Eng/Kor)<br>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=smee6&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
   
-
 <br>
   
-<a href="http://instagram.com/seomyungin" target="_blank"><img src="https://img.shields.io/badge/seomyungin-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
 </div>
