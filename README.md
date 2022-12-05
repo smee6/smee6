@@ -14,7 +14,7 @@ smee6@naver.com (Eng/Kor)<br>
 ![SEO's github stats](https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true)
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=smee6&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=smee6&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
   
 
 <br>
