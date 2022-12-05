@@ -1,6 +1,6 @@
 <p align="center">
-<h1>Hello, I am Seo Myungin (SEO)</h1>  
-<h2>개발을 좋아하는 개발자</h2>
+Hello, I am Seo Myungin (SEO)
+개발을 좋아하는 개발자
 </p>
 <p align="center">
 smee6@naver.com (Eng/Kor)<br>
