@@ -13,7 +13,7 @@ smee6@naver.com (Eng/Kor)<br>
 </p>
 
   
-![SEO's github stats](https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true)
+[![Seo's github activity graph](https://activity-graph.herokuapp.com/graph?username=smee6&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=smee6&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
