@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🎮그림그리고 운동하고 곡쓰는 개발자&fontAlign=70)
   
 <p align="center">
 Hello, I am Seo Myungin (SEO)<br>
