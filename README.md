@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&animation=fadeIn&section=footer&text=🎮🥊🎧🎨&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&animation=fadeIn&section=footer&text=🎮🥊🎧🎨&fontAlign=70)
   
 <p align="center">
 Hello, I am Seo Myungin (SEO)<br>
