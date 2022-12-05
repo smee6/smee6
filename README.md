@@ -1,13 +1,12 @@
 <p align="center">
 Hello, I am Seo the developer
-<p align="center">
+  
+
 Contact: smee6@naver.com (Eng/Kor)<br>
-Blog : https://codegosu.tistory.com/<br>
-노션 이력서 : https://seo93.notion.site/697852d68b4c4075ab49e20333d4df60<br>
+Blog :  <a href="https://codegosu.tistory.com/"><br>
+노션 이력서 : <a href="https://seo93.notion.site/697852d68b4c4075ab49e20333d4df60"><br>
 </p>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="http://instagram.com/seomyungin" target="_blank"><img src="https://img.shields.io/badge/seomyungin-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
