@@ -8,7 +8,9 @@ smee6@naver.com (Eng/Kor)<br>
 <a href="https://seo93.notion.site/697852d68b4c4075ab49e20333d4df60"> Notion Resume (한국어)</a>
 </p>
 <p align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=smee6)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </p>
 <br>
 <p align="center">
