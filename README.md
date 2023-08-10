@@ -13,7 +13,7 @@
 smee6@naver.com (Eng/한국어)<br><br>
 <a href="https://codegosu.tistory.com/">티스토리 블로그</a><br>
 <a href=""> Notion Resume (한국어)</a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact)
 </p>
 <br>
   
