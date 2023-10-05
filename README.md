@@ -1,5 +1,5 @@
 
-### 💼 Skills & Technologies  
+### 💼 Skills & Technologies
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -8,7 +8,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm SEO 👋
 
 <b>Myungin (SEO) </b> the code maker
 <br>
@@ -21,5 +21,5 @@ visit my <a href="https://codegosu.tistory.com/">blog</a> <- here <br>
 
 ### 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true&count_private=true)
 
