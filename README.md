@@ -14,9 +14,10 @@ M.S Course in Computer Science (ongoing)
 <br>
 
 ### 💼 Skills & Technologies
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-Your%20Version-YourColor)
+- ![Express.js](https://img.shields.io/badge/Express.js-Your%20Version-YourColor)
+- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-Your%20Version-YourColor)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Your%20Version-YourColor)
+- ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Your%20Expertise-YourColor)
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
