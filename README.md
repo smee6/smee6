@@ -18,8 +18,3 @@
 smee6@naver.com (Eng/kor)<br><br>
 visit my <a href="https://codegosu.tistory.com/">blog</a> <- here <br>
 </p>
-
-### 🚀 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true&count_private=true)
-
