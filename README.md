@@ -6,10 +6,13 @@
 </p>
 <p>
 smee6@naver.com (Eng/kor)<br><br>
-visit my <a href="https://codegosu.tistory.com/">blog</a> <- here <br>
 </p>
 <br>
+backend/software engineer <br>
+currently work at SoluM (Korea,HQ) <br>
+M.S Course in Computer Science
 
+<br>
 ### 💼 Skills & Technologies
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
