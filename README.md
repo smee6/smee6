@@ -7,8 +7,8 @@
 </p>
 <p>
 smee6@naver.com (Eng/kor)<br><br>
-visit my <a href="https://codegosu.tistory.com/">blog</a><br> <- here
-new things always new
+visit my <a href="https://codegosu.tistory.com/">blog</a> <- here <br>
+
 
 </p>
 <br>
