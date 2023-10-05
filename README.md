@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&animation=fadeIn&section=footer&text=💻🥊🎧🎨&fontAlign=70)
   
-<p align="center">
+<p>
   <a><b>Hello, I am Myungin (SEO)</b></a><br>
   
 <a href="http://instagram.com/seomyungin" target="_blank"><img src="https://img.shields.io/badge/seomyungin-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
