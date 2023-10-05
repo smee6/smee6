@@ -7,7 +7,6 @@
 <p>
 smee6@naver.com (Eng/kor)<br><br>
 </p>
-<br>
 backend/software engineer <br>
 currently work at SoluM (Korea,HQ) <br>
 M.S Course in Computer Science
