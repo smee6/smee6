@@ -5,7 +5,7 @@
 <b>coder-ish life, developer's mind</b>
 </p>
 <p>
-smee6@naver.com (Eng/kor)<br><br>
+smee6@naver.com (Eng/kor)<br>
 </p>
 backend/software engineer <br>
 currently work at SoluM (Korea,HQ) <br>
