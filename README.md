@@ -3,16 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&animation=fadeIn&section=footer&text=💻🥊🎧🎨&fontAlign=70)
   
 <p align="center">
-  <a><b>Hello, I am Seo Myungin (SEO)</b></a><br>
+  <a><b>Hello, I am Myungin (SEO)</b></a><br>
   
 <a href="http://instagram.com/seomyungin" target="_blank"><img src="https://img.shields.io/badge/seomyungin-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
-  <b>개발을 좋아하는 개발자</b>
+  <b>coder-ish life, developer's mind</b>
 </p>
 <p align="center">
-smee6@naver.com (Eng/한국어)<br><br>
-<a href="https://codegosu.tistory.com/">티스토리 블로그</a><br>
-<a href=""> Notion Resume (한국어)</a>
+smee6@naver.com (Eng/kor)<br><br>
+<a href="https://codegosu.tistory.com/">blog</a><br>
 
 </p>
 <br>
