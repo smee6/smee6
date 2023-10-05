@@ -1,7 +1,8 @@
 <div>
   
 <p>
-<a><b>Hello, I am Myungin (SEO)</b></a><br>
+<a><b>Myungin (SEO) the code maker</b></a>
+<br>
 <b>coder-ish life, developer's mind</b>
 </p>
 <p>
