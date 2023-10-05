@@ -14,7 +14,7 @@ M.S Course in Computer Science (ongoing)
 <br>
 
 ### 💼 Skills & Technologies
-- ![Node.js](https://img.shields.io/badge/Node.js-green)
+- ![Node.js](https://img.shields.io/badge/Node.js-green) ㅇㅇㅇ
 - ![Express.js](https://img.shields.io/badge/Express.js-skyblue)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-brown)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
