@@ -1,4 +1,4 @@
-### Hi there, I'm SEO 👋
+### silly developerlike coder 👋
 
 <b>Myungin (SEO) </b> the code maker
 <br>
@@ -9,7 +9,7 @@ smee6@naver.com (Eng/kor)<br>
 </p>
 backend/software engineer <br>
 currently work at SoluM (Korea,HQ) <br>
-M.S Course in Computer Science
+M.S Course in Computer Science (ongoing)
 
 <br>
 
