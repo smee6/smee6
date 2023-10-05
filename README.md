@@ -1,7 +1,5 @@
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&animation=fadeIn&section=footer&text=💻🥊🎧🎨&fontAlign=70)
-  
 <p>
   <a><b>Hello, I am Myungin (SEO)</b></a><br>
   
@@ -9,7 +7,7 @@
   
   <b>coder-ish life, developer's mind</b>
 </p>
-<p align="center">
+<p>
 smee6@naver.com (Eng/kor)<br><br>
 <a href="https://codegosu.tistory.com/">blog</a><br>
 
