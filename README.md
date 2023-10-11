@@ -1,14 +1,14 @@
-### silly developerlike coder 👋
+### Silly Developerlike Coder 👋
 
-<b>Myungin (SEO) </b> the code maker
+<b>Myungin (SEO) </b> the Code Maker
 <br>
-<b>coder-ish life, developer's mind</b>
+<b>Coder-ish life, Developer's mind</b>
 </p>
 <p>
 smee6@naver.com (Eng/kor)<br>
 </p>
-backend/software engineer <br>
-currently work at SoluM (Korea,HQ) <br>
+Backend/Software Engineer <br>
+currently Working at SoluM (Korea,HQ) <br>
 M.S Course in Computer Science (ongoing)
 
 <br>
