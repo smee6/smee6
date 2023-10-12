@@ -1,4 +1,4 @@
-### Silly Developerlike Coder 👋
+### 👋 Silly Developerlike Coder 
 
 <b>Myungin (SEO) </b> the Code Maker
 <br>
@@ -17,3 +17,9 @@ M.S Course in Computer Science (ongoing)
 - ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express.js](https://img.shields.io/badge/Express.js-skyblue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-brown)
 - ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-pink)
+
+<br>
+
+### 🫠 Contact Me
+- smee6@hanyang.ac.kr
+- @seomyungin (instagram)
