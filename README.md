@@ -18,7 +18,6 @@ M.S Course in Computer Science (ongoing)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-brown)
 - ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-pink)
 
-<br>
 
 ### 🫠 Contact Me
 - smee6@hanyang.ac.kr
