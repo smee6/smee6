@@ -23,4 +23,4 @@ M.S Course in Computer Science (ongoing)
 - smee6@hanyang.ac.kr
 - @seomyungin (instagram)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
