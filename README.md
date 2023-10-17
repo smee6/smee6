@@ -7,8 +7,7 @@
 <p>
 smee6@naver.com (Eng/kor)<br>
 </p>
-Backend/Software Engineer <br>
-currently Working at SoluM <br>
+currently Working as a Backend/Software Engineer <br>
 M.S Course in Computer Science (ongoing)
 
 <br>
