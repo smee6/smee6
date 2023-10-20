@@ -1,4 +1,4 @@
-### 👋 Silly Developerlike Coder 
+### 👋 Still Coding
 
 <b>Myungin (SEO) </b> the Code Maker
 <br>
