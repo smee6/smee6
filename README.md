@@ -5,7 +5,7 @@
 <p>
 <b>Nothing but a Coder</b><br>
 Now I am a NodeJS-Express, Backend Service, DL-Computer Vision, Postgres-MongoDB lover <br>
-Work now and Enjoy now too, think later.<br>
+Work now and Enjoy now too, think later<br>
 </p>
 <p>
 smee6@naver.com (Eng/kor)<br>
