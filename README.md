@@ -1,9 +1,10 @@
 ### 👋 Still Coding
 
-<b>Myungin (SEO) </b> the Code Maker
+<b>Myungin Seo (SEO) </b>
 <br>
-<b>Coder-ish life, Developer's mind</b>
-</p>
+<b>Nothing but the Coder</b>
+<b>Now I am a NodeJS-Express, Backend Service, DL-Computer Vision, Postgres-MongoDB lover</b>
+<b>Work now and Enjoy now too, think later.</b>
 <p>
 smee6@naver.com (Eng/kor)<br>
 </p>
