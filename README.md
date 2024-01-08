@@ -2,9 +2,11 @@
 
 <b>Myungin Seo (SEO) </b>
 <br>
+<p>
 <b>Nothing but the Coder</b>
-<b>Now I am a NodeJS-Express, Backend Service, DL-Computer Vision, Postgres-MongoDB lover</b>
+Now I am a NodeJS-Express, Backend Service, DL-Computer Vision, Postgres-MongoDB lover
 <b>Work now and Enjoy now too, think later.</b>
+</p>
 <p>
 smee6@naver.com (Eng/kor)<br>
 </p>
