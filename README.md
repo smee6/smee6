@@ -7,9 +7,6 @@
 Now I am a NodeJS-Express, Backend Service, DL-Computer Vision, Postgres-MongoDB lover <br>
 Work now and Enjoy now too, think later<br>
 </p>
-<p>
-smee6@naver.com (Eng/kor)<br>
-</p>
 Backend/Software Engineer <br>
 M.S Course in Computer Science (ongoing)
 
@@ -24,7 +21,7 @@ just do when you're awake.
 
 
 ### 🫠 Contact Me
-- smee6@hanyang.ac.kr
+- smee6[at]hanyang[dot]ac[dot]kr
 - @seomyungin (instagram)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
