@@ -16,7 +16,7 @@ just do when you're awake.
 
 ### 💼 Skills & Technologies
 - ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express.js](https://img.shields.io/badge/Express.js-skyblue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-brown) ![PostgreSQL](http://img.shields.io/badge/PostgreSQL)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-brown) ![PostgreSQL](https://img.shields.io/badge/postgresql-blue) 
 - ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-pink)
 
 
