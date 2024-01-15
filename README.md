@@ -24,4 +24,4 @@ just do when you're awake.
 - smee6[at]hanyang[dot]ac[dot]kr
 - @seomyungin (instagram)
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
