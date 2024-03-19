@@ -23,5 +23,3 @@ just do when you're awake.
 ### 🫠 Contact Me
 - smee6[at]hanyang[dot]ac[dot]kr
 - @seomyungin (instagram)
-
-![](./profile-3d-contrib/profile-night-view.svg)
