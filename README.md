@@ -5,7 +5,7 @@
 <p>
 <b>Nothing but a Coder</b><br>
 Now I am a NodeJS-Express, Backend Service, DL-Computer Vision, Postgres-MongoDB lover <br>
-Work now and Enjoy now too, think later<br>
+
 </p>
 Backend/Software Engineer <br>
 M.S Course in Computer Science (ongoing)
