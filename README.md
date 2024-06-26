@@ -20,6 +20,4 @@ just do when you're awake.
 - ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-pink)
 
 
-### 🫠 Contact Me
-- smee6[at]hanyang[dot]ac[dot]kr
 - @seomyungin (instagram)
