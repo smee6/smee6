@@ -22,4 +22,4 @@ just do when you're awake.
 
 - @seomyungin (instagram)
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=seomeng9&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+
