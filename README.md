@@ -21,6 +21,3 @@ just do when you're awake.
 
 
 - @seomyungin (instagram)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact)
