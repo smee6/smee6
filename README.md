@@ -1,9 +1,8 @@
-### 👋 Still Coding
+### 👋 Biological Code Typer
 
-<b>Myungin Seo (SEO) </b>
+<b>Myungin Seo (SEO)</b>
 <br>
-<p><b>Software Engineer or ... Text Coder since 2021</b><br></p>
-<br>
+<p>Software Engineer or ... a Text Coder since 2021<br></p>
 
 ### 💼 Skills & Technologies
 - ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express.js](https://img.shields.io/badge/Express.js-skyblue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
