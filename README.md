@@ -2,11 +2,7 @@
 
 <b>Myungin Seo (SEO) </b>
 <br>
-<p>
-<b>Text Coder since 2021</b><br>
-</p>
-Software Engineer <br>
-
+<p><b>Software Engineer or ... Text Coder since 2021</b><br></p>
 <br>
 
 ### 💼 Skills & Technologies
