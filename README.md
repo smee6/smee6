@@ -7,6 +7,6 @@
 ### 💼 Skills & Technologies
 - ![Bun](https://img.shields.io/badge/Bun-white) ![Elysia](https://img.shields.io/badge/Elysia-purple) ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express.js](https://img.shields.io/badge/Express.js-skyblue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-brown) ![PostgreSQL](https://img.shields.io/badge/postgresql-blue) ![Redis](https://img.shields.io/badge/redis-red) 
-- ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-pink)
+- ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-pink) ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange) ![MacOS](https://img.shields.io/badge/MacOS-white)
 
 - @codegosu.me (instagram)
