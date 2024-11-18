@@ -3,16 +3,12 @@
 
 Software Engineer & Pro Text Coder since 2021*
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-## 🛠️ Skills & Technologies
+# 🛠️ Skills & Technologies
 
 ### 💻 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
@@ -40,7 +36,6 @@ Software Engineer & Pro Text Coder since 2021*
 ### 🎨 **Design & Architecture**
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6347?style=flat-square&logo=patterns&logoColor=white) 
 ![Backend](https://img.shields.io/badge/Backend-4B0082?style=flat-square&logo=backend&logoColor=white)
-
 
 ### 🌐 **Connect with Me** 
 
