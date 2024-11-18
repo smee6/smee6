@@ -4,9 +4,9 @@
 Software Engineer & Pro Text Coder since 2021*
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=smee6&theme=react-dark&hide_border=true&area=true&line=2bbc8a&point=ff4081&bg_color=0d1117" alt="Activity Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smee6&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=smee6&row=1&column=7&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 # 🛠️ Skills & Technologies
