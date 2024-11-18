@@ -1,11 +1,10 @@
 <!-- Profile Header -->
 # 👋 Hi, I'm **Myungin Seo (SEO)**
 
-*Software Engineer & Text Coder since 2021*
+Software Engineer & Pro Text Coder since 2021*
 
 ---
 
-<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smee6&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smee6&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
@@ -42,9 +41,8 @@
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6347?style=flat-square&logo=patterns&logoColor=white) 
 ![Backend](https://img.shields.io/badge/Backend-4B0082?style=flat-square&logo=backend&logoColor=white)
 
----
 
-## 🌐 Connect with Me
+### 🌐 **Connect with Me** 
 
 <p align="left">
   <a href="https://github.com/smee6" target="blank">
@@ -56,10 +54,4 @@
   <a href="https://codegosu.me" target="blank">
     <img align="center" src="https://img.shields.io/badge/codegosu.me-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Made with ❤️ by Myungin Seo</i>
 </p>
