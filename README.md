@@ -3,8 +3,6 @@
 
 *Software Engineer & Text Coder since 2021*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=smee6&color=brightgreen)
-
 ---
 
 <!-- GitHub Stats -->
@@ -15,7 +13,6 @@
 
 ---
 
-<!-- Skills Section -->
 ## 🛠️ Skills & Technologies
 
 ### 💻 **Languages**
@@ -47,7 +44,6 @@
 
 ---
 
-<!-- Connect Section -->
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -63,11 +59,6 @@
 </p>
 
 ---
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://github.com/smee6/smee6/blob/main/assets/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 <p align="center">
   <i>Made with ❤️ by Myungin Seo</i>
