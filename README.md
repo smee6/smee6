@@ -21,7 +21,7 @@ Software Engineer & Pro Text Coder since 2021*
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) 
 ![Elysia](https://img.shields.io/badge/Elysia-4B0082?style=flat-square&logo=elysia&logoColor=white) 
 ![Bun](https://img.shields.io/badge/Bun-314D6A?style=flat-square&logo=bun&logoColor=white)
-
+![HTMX](https://img.shields.io/badge/Htmx-EE4D6A?style=flat-square&logo=htmx&logoColor=white))
 ### 📚 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
